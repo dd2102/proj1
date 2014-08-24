@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+print('Hello World!!!')
+print("My master..")
+=======
+print("Hello World!!!!")
+print ("hotfix")
+>>>>>>> hotfix
